@@ -3,8 +3,9 @@ export default function DisplayWelcome ({monthOfYear, dayOfMonth}) {
 	return (
 		<>
 
-		<h1>Hello React World</h1>
-		<p>Today is {monthOfYear} {dayOfMonth}!</p>
+		<h1>It´s a beautiful day!</h1>
+		<h1>☀️</h1>
+		<h1>Today is {monthOfYear} {dayOfMonth}!</h1>
 
 		</>
 	)
